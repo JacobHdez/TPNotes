@@ -74,3 +74,6 @@ Estas son algunas bibliotecas básicas y necesarias para la realización de un p
 En `C` la identación es absolutamente superflua: indentamos los programas únicamente para hacerlos más legibles. En `C` se sabe dónde empieza y dónde acaba in bloque porque éste está encerrado entre una llave abierta (`{`) y otra cerrada (`}`).
 
 Una norma: *las sentencias en `C` acaban con un punto y coma*. Y una excepción ala norma: no hace falta poner punto y coma trs una llave cerrada.
+
+
+[Estructura de un programa en C](./chapters/test.md)
